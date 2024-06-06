@@ -1,0 +1,16 @@
+{
+  "name": "squooshimgcompression",
+  "version": "1.0.0",
+  "description": "use squoosh to process images",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lucylee",
+  "license": "ISC",
+  "dependencies": {
+    "@squoosh/lib": "^0.4.0",
+    "web3": "^1.7.4"
+  }
+}
