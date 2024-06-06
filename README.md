@@ -8,11 +8,11 @@ node.js僅能使用v17以下版本
 
 ## 使用方法
 
-1. 下載node packages，輸入:
+1. 下載node packages
 ```
 npm install
 ```
-2. 將要壓縮的圖片放在同一個資料夾裡，開始壓縮（路徑必須使用「/」，例：D:/squooshimgcompression/images），輸入:
+2. 將要壓縮的圖片放在同一個資料夾裡，以下指令開始壓縮（路徑必須使用「/」，例：D:/squooshimgcompression/images）
 ```
 npm start {要壓縮的檔案路徑}
 ```
